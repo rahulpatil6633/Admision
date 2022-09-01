@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Flask==2.0.3
 numpy==1.22.3
 pandas==1.4.2
+=======
+Flask==2.0.3
+numpy==1.22.3
+pandas==1.4.2
+>>>>>>> e19d2d0f098c4bc58b8c1dc107105044e07856ac
 scikit-learn==1.1.1
